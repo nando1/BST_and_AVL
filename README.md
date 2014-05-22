@@ -6,6 +6,8 @@ This repository contains BST and AVL Tree implementations that I made for CS130A
 <em>BST with Random Insertions, Accesses, and Deletions</m>
 ![BST](bst_random.png?raw=true)
 
+---
+
 <em>AVL Tree with Insertions, Accesses, and Deletions all in Increasing Order</em>
 ![AVL](avl_increasing.png?raw=true)
 
