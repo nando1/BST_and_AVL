@@ -4,10 +4,10 @@ BST and AVL Tree
 This repository contains BST and AVL Tree implementations that I made for CS130A at UCSB in the Spring 2014 quarter. Part of the assignment involved doing an analysis of the performance of these two data structures. I timed various operations with different input sizes and I plotted this data to get an idea of input size vs execution time. The PDF of the full report is located in the repo, but here are some sample runs:
 
 BST with Random Insertions, Accesses, and Deletions
-![BST](http://i.imgur.com/KY9GuN9)
+![BST](bst_random.png?raw=true)
 
 AVL Tree with Insertions, Accesses, and Deletions all in Increasing Order
-![AVL](http://i.imgur.com/VwdgFVT)
+![AVL](avl_increasing.png?raw=true)
 
 
 How to Use
