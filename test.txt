@@ -1,0 +1,20 @@
+print
+insert 50
+insert 60
+insert 40
+insert 10
+insert 20
+access 10
+print
+insert 15
+print
+insert 40
+insert 30
+print
+delete 40
+print
+insert 40
+insert 70
+print
+delete 100
+print
